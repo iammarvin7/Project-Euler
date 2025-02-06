@@ -20,11 +20,12 @@ A collection of my solutions to Project Euler problems using modern C++. This re
 ## 📂 Repository Structure
 ```plaintext
 Project-Euler-Solutions/
-├── #1_Name_of_the_Problem1.cpp        
-├── #2_Name_of_the_Problem2.cpp/
-├── #3_Name_of_the_Problem3.cpp/
+├── Name_of_the_Problem_Q1.cpp        
+├── Name_of_the_Problem_Q2.cpp/
+├── Name_of_the_Problem_Q3.cpp/
 ├──...                # Future solutions will follow this structure
-└── README.md
+├── README.md
+└── LISCENCE
 ```
 
 ## 📜 **License**
