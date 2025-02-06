@@ -30,6 +30,6 @@ Project-Euler-Solutions/
 
 ## 🌐 **Connect**
 
-Personal Website: iammarvin7.github.io/Marvin-C/
+Personal Website: [Link](https://iammarvin7.github.io/Marvin-C/)
 
-Project Euler Profile: projecteuler.net/profile/iammarvin7.png
+Project Euler Profile: [Link](https://projecteuler.net/profile/iammarvin7.png)
